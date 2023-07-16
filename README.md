@@ -6,7 +6,7 @@ Many software engineering teams use daily meetings, known as scrums, to plan the
 
 Scrumdinger is an iOS app that helps teams manage their daily scrums. To help keep scrums short and focused, Scrumdinger uses visual and audio cues to indicate when and how long each attendee should speak. The app also displays a progress screen that shows the time remaining in the meeting and creates a transcript that the users can refer to later.
 
-This project was built following ![iOS App Dev Tutorials](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger) for me to learn app development with SwiftUI and XCode.
+This project was built following [iOS App Dev Tutorials](https://developer.apple.com/tutorials/app-dev-training/getting-started-with-scrumdinger) for me to learn app development with SwiftUI and XCode.
 
 ## Features
 
