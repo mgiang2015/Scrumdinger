@@ -97,24 +97,12 @@
 		394A48B92A4C049B0086E53E /* Scrumdinger */ = {
 			isa = PBXGroup;
 			children = (
+				394A48BA2A4C049B0086E53E /* ScrumdingerApp.swift */,
+				39A7C57F2A63F1D700B1892E /* Views */,
 				399A5DD52A557A23005FC9CD /* Resources */,
 				394A48C82A4C239B0086E53E /* Models */,
-				394A48BA2A4C049B0086E53E /* ScrumdingerApp.swift */,
-				394A48BC2A4C049B0086E53E /* MeetingView.swift */,
 				394A48BE2A4C04A20086E53E /* Assets.xcassets */,
 				394A48C02A4C04A20086E53E /* Preview Content */,
-				39BC4DBA2A4C3FEF00AC6663 /* CardView.swift */,
-				39BC4DBE2A4C888400AC6663 /* ScrumsView.swift */,
-				39819B292A4EDB4F0039E8AB /* DetailView.swift */,
-				3901A9232A531C79006FD340 /* EditView.swift */,
-				3901A9252A53E06B006FD340 /* ThemeView.swift */,
-				3901A9272A53F38B006FD340 /* ThemePicker.swift */,
-				3901A9292A54148A006FD340 /* MeetingHeaderView.swift */,
-				3901A92F2A542D29006FD340 /* MeetingFooterView.swift */,
-				399A5DDA2A5580D5005FC9CD /* NewScrumSheet.swift */,
-				399A5DE22A56956C005FC9CD /* ErrorView.swift */,
-				399A5DE42A569C4E005FC9CD /* MeetingTimerView.swift */,
-				399A5DE62A569FC1005FC9CD /* SpeakerArc.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -150,6 +138,26 @@
 				399A5DD62A557A37005FC9CD /* ding.wav */,
 			);
 			path = Resources;
+			sourceTree = "<group>";
+		};
+		39A7C57F2A63F1D700B1892E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				394A48BC2A4C049B0086E53E /* MeetingView.swift */,
+				39BC4DBA2A4C3FEF00AC6663 /* CardView.swift */,
+				39BC4DBE2A4C888400AC6663 /* ScrumsView.swift */,
+				39819B292A4EDB4F0039E8AB /* DetailView.swift */,
+				3901A9232A531C79006FD340 /* EditView.swift */,
+				3901A9252A53E06B006FD340 /* ThemeView.swift */,
+				3901A9272A53F38B006FD340 /* ThemePicker.swift */,
+				3901A9292A54148A006FD340 /* MeetingHeaderView.swift */,
+				3901A92F2A542D29006FD340 /* MeetingFooterView.swift */,
+				399A5DDA2A5580D5005FC9CD /* NewScrumSheet.swift */,
+				399A5DE22A56956C005FC9CD /* ErrorView.swift */,
+				399A5DE42A569C4E005FC9CD /* MeetingTimerView.swift */,
+				399A5DE62A569FC1005FC9CD /* SpeakerArc.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
